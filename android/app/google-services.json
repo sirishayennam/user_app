@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "496743343349",
+    "firebase_url": "https://uber-ola-in-driver-clone-default-rtdb.firebaseio.com",
+    "project_id": "uber-ola-in-driver-clone",
+    "storage_bucket": "uber-ola-in-driver-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496743343349:android:9b19b33f1e8668abba51bc",
+        "android_client_info": {
+          "package_name": "com.example.caasdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496743343349-l4gamrjf0gsssli0snipm9du4lkcb485.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClfy-StoEmeODRgUrMOwi3kAMoEv4cDL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496743343349-l4gamrjf0gsssli0snipm9du4lkcb485.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496743343349:android:69c10ec2562190e4ba51bc",
+        "android_client_info": {
+          "package_name": "com.example.drivers_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496743343349-l4gamrjf0gsssli0snipm9du4lkcb485.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClfy-StoEmeODRgUrMOwi3kAMoEv4cDL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496743343349-l4gamrjf0gsssli0snipm9du4lkcb485.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496743343349:android:a562818c0cef06a6ba51bc",
+        "android_client_info": {
+          "package_name": "com.example.user_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496743343349-l4gamrjf0gsssli0snipm9du4lkcb485.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClfy-StoEmeODRgUrMOwi3kAMoEv4cDL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496743343349-l4gamrjf0gsssli0snipm9du4lkcb485.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
